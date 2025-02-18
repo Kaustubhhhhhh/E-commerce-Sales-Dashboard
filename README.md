@@ -66,7 +66,6 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
         <li>🎨 Enhance <mark>UI/UX with advanced Power BI features</mark>.</li>
     </ul>
 
-    </div>
 
 </body>
 </html>
