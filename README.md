@@ -47,7 +47,7 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
 
 <h2>🚀 How to Use the Dashboard</h2>
  <ol>
-  <li>Open the <strong>project 3.pbix</strong> file in <strong>Power BI Desktop</strong>.</li>
+  <li>Open the <strong>Ecommerce Sales Dashboard.pbix</strong> file in <strong>Power BI Desktop</strong>.</li>
   <li>Explore different reports, visualizations, and filters.</li>
   <li>Use slicers to filter data based on <mark>date, category, location, etc.</mark></li>
   <li>Gain insights into <mark>sales trends and business performance</mark>.</li>
