@@ -36,19 +36,26 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
 <li><strong>Excel</strong>: Used for <mark>data storage</mark> and <mark>preprocessing</mark>.</li>
 </ul>
 <h2>📸 Dashboard Preview</h2>
-![image](https://github.com/user-attachments/assets/e0690e9c-bb22-4730-9eac-0cb6d77fe86d)
+<p><em>![image](https://github.com/user-attachments/assets/fa5b639e-bf61-4f81-8b36-bc050faaeaf1)
+</em></p>
+<h2>🚀 How to Use the Dashboard</h2>
+ <ol>
+  <li>Open the <strong>project 3.pbix</strong> file in <strong>Power BI Desktop</strong>.</li>
+  <li>Explore different reports, visualizations, and filters.</li>
+  <li>Use slicers to filter data based on <mark>date, category, location, etc.</mark></li>
+  <li>Gain insights into <mark>sales trends and business performance</mark>.</li>
+ </ol>
+<h2>📈 Business Insights</h2>
+    <ul>
+        <li>Identify <mark>peak sales months</mark> and <mark>profitable products</mark>.</li>
+        <li>Recognize <mark>customer buying patterns</mark>.</li>
+        <li>Evaluate <mark>geographical sales distribution</mark>.</li>
+        <li>Optimize <mark>inventory based on demand</mark>.</li>
+    </ul>
+ <h2>💡 Future Enhancements</h2>
+    <ul>
+        <li>🔄 Integrate <mark>real-time data updates</mark>.</li>
+        <li>📊 Add <mark>predictive analytics for sales forecasting</mark>.</li>
+        <li>🎨 Enhance <mark>UI/UX with advanced Power BI features</mark>.</li>
+    </ul>
 
-🚀 How to Use the Dashboard
-Open the project 3.pbix file in Power BI Desktop.
-Explore different reports, visualizations, and filters.
-Use slicers to filter data based on date, category, location, etc.
-Gain insights into sales trends and business performance.
-📈 Business Insights
-Identify peak sales months and profitable products.
-Recognize customer buying patterns.
-Evaluate geographical sales distribution.
-Optimize inventory based on demand.
-💡 Future Enhancements
-Integrate real-time data updates.
-Add predictive analytics for sales forecasting.
-Enhance UI/UX with advanced Power BI features.
