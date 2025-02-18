@@ -1,4 +1,11 @@
-<h1>📊 Ecommerce Sales Dashboard</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<div class="container">
+    <h1>📊 Ecommerce Sales Dashboard</h1>
 <h2>📝 Project Overview</h2>
 <p>
 This project is an <strong>interactive Ecommerce Sales Dashboard</strong> designed to visualize sales data and provide business insights. The dashboard helps in analyzing sales trends, profits, customer distribution, and payment methods.
@@ -36,7 +43,8 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
 <li><strong>Excel</strong>: Used for <mark>data storage</mark> and <mark>preprocessing</mark>.</li>
 </ul>
 <h2>📸 Dashboard Preview</h2>
-![image alt](https://github.com/Kaustubhhhhhh/E-commerce-Sales-Dashboard/blob/84cd8168bf3981cc6d26c93513042e2aea4af84a/Ecommerce%20Sales%20Dashboard.png)
+![image](https://github.com/user-attachments/assets/00423675-a77a-44f2-87dd-b902e360bcf2)
+
 <h2>🚀 How to Use the Dashboard</h2>
  <ol>
   <li>Open the <strong>project 3.pbix</strong> file in <strong>Power BI Desktop</strong>.</li>
@@ -57,4 +65,9 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
         <li>📊 Add <mark>predictive analytics for sales forecasting</mark>.</li>
         <li>🎨 Enhance <mark>UI/UX with advanced Power BI features</mark>.</li>
     </ul>
+
+    </div>
+
+</body>
+</html>
 
