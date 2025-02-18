@@ -36,8 +36,7 @@ This project is an <strong>interactive Ecommerce Sales Dashboard</strong> design
 <li><strong>Excel</strong>: Used for <mark>data storage</mark> and <mark>preprocessing</mark>.</li>
 </ul>
 <h2>📸 Dashboard Preview</h2>
-<p><em>![image](https://github.com/user-attachments/assets/fa5b639e-bf61-4f81-8b36-bc050faaeaf1)
-</em></p>
+![image alt](https://github.com/Kaustubhhhhhh/E-commerce-Sales-Dashboard/blob/84cd8168bf3981cc6d26c93513042e2aea4af84a/Ecommerce%20Sales%20Dashboard.png)
 <h2>🚀 How to Use the Dashboard</h2>
  <ol>
   <li>Open the <strong>project 3.pbix</strong> file in <strong>Power BI Desktop</strong>.</li>
